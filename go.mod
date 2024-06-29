@@ -1,6 +1,6 @@
 module indexer-go
 
-go 1.20.4
+go 1.20
 
 require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect
